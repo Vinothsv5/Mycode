@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import javax.ejb.Remove;
 import javax.ejb.Stateful;
 
 @Stateful
